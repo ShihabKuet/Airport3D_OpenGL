@@ -1,0 +1,60 @@
+﻿  main.cpp
+E:\4 2\projects\3D_Airport\main.cpp(507,67): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\4 2\projects\3D_Airport\main.cpp(507,63): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\4 2\projects\3D_Airport\main.cpp(507,59): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\4 2\projects\3D_Airport\main.cpp(519,61): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\4 2\projects\3D_Airport\main.cpp(519,57): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\4 2\projects\3D_Airport\main.cpp(519,53): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\4 2\projects\3D_Airport\main.cpp(523,50): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\4 2\projects\3D_Airport\main.cpp(524,50): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\4 2\projects\3D_Airport\main.cpp(577,36): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\4 2\projects\3D_Airport\main.cpp(577,66): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\4 2\projects\3D_Airport\main.cpp(577,51): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\4 2\projects\3D_Airport\main.cpp(698,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\4 2\projects\3D_Airport\main.cpp(698,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\4 2\projects\3D_Airport\main.cpp(698,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\4 2\projects\3D_Airport\main.cpp(730,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\4 2\projects\3D_Airport\main.cpp(730,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\4 2\projects\3D_Airport\main.cpp(730,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\4 2\projects\3D_Airport\main.cpp(746,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\4 2\projects\3D_Airport\main.cpp(746,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\4 2\projects\3D_Airport\main.cpp(746,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\4 2\projects\3D_Airport\main.cpp(765,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\4 2\projects\3D_Airport\main.cpp(765,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\4 2\projects\3D_Airport\main.cpp(765,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\4 2\projects\3D_Airport\main.cpp(896,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\4 2\projects\3D_Airport\main.cpp(897,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\4 2\projects\3D_Airport\main.cpp(903,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\4 2\projects\3D_Airport\main.cpp(904,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\4 2\projects\3D_Airport\main.cpp(910,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\4 2\projects\3D_Airport\main.cpp(911,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\4 2\projects\3D_Airport\main.cpp(917,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\4 2\projects\3D_Airport\main.cpp(918,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\4 2\projects\3D_Airport\main.cpp(929,74): warning C4305: '+=': truncation from 'double' to 'float'
+E:\4 2\projects\3D_Airport\main.cpp(930,74): warning C4305: '-=': truncation from 'double' to 'float'
+E:\4 2\projects\3D_Airport\main.cpp(931,74): warning C4305: '+=': truncation from 'double' to 'float'
+E:\4 2\projects\3D_Airport\main.cpp(932,74): warning C4305: '-=': truncation from 'double' to 'float'
+E:\4 2\projects\3D_Airport\main.cpp(933,74): warning C4305: '+=': truncation from 'double' to 'float'
+E:\4 2\projects\3D_Airport\main.cpp(934,74): warning C4305: '-=': truncation from 'double' to 'float'
+E:\4 2\projects\3D_Airport\main.cpp(935,70): warning C4305: '+=': truncation from 'double' to 'float'
+E:\4 2\projects\3D_Airport\main.cpp(936,70): warning C4305: '-=': truncation from 'double' to 'float'
+E:\4 2\projects\3D_Airport\main.cpp(937,70): warning C4305: '+=': truncation from 'double' to 'float'
+E:\4 2\projects\3D_Airport\main.cpp(938,70): warning C4305: '-=': truncation from 'double' to 'float'
+E:\4 2\projects\3D_Airport\main.cpp(939,70): warning C4305: '+=': truncation from 'double' to 'float'
+E:\4 2\projects\3D_Airport\main.cpp(940,70): warning C4305: '-=': truncation from 'double' to 'float'
+E:\4 2\projects\3D_Airport\main.cpp(966,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\4 2\projects\3D_Airport\main.cpp(971,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\4 2\projects\3D_Airport\main.cpp(976,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\4 2\projects\3D_Airport\main.cpp(981,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\4 2\projects\3D_Airport\main.cpp(986,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\4 2\projects\3D_Airport\main.cpp(991,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\4 2\projects\3D_Airport\main.cpp(996,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\4 2\projects\3D_Airport\main.cpp(1001,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\4 2\projects\3D_Airport\main.cpp(1006,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\4 2\projects\3D_Airport\main.cpp(1011,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\4 2\projects\3D_Airport\main.cpp(1016,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\4 2\projects\3D_Airport\main.cpp(1021,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\4 2\projects\3D_Airport\main.cpp(1038,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\4 2\projects\3D_Airport\main.cpp(1039,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\4 2\projects\3D_Airport\main.cpp(1040,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  3D_Airport.vcxproj -> E:\4 2\projects\3D_Airport\x64\Debug\3D_Airport.exe
